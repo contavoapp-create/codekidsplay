@@ -99,7 +99,7 @@ export default function AsigneazaProfesorPanel({ cursantId }: { cursantId: strin
       // creează stub local pentru sync sesiune mock (opțional)
       mockProf = {
         tip: 'profesor',
-        email: 'profesor@codekidsplay.ro',
+        email: 'profesor@codemakerclub.ro',
         parola: 'profesor123',
         nume: 'Profesor',
         cursant_ids: [],

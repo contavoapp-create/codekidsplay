@@ -56,14 +56,14 @@ function seedCreds(): CredsStore {
     email: [
       {
         tip: 'admin',
-        email: 'admin@codekidsplay.ro',
+        email: 'admin@codemakerclub.ro',
         parola: 'admin123',
         nume: 'Admin Code Maker Club',
         cursant_ids: [],
       },
       {
         tip: 'profesor',
-        email: 'profesor@codekidsplay.ro',
+        email: 'profesor@codemakerclub.ro',
         parola: 'profesor123',
         nume: 'Profesor',
         cursant_ids: [],
